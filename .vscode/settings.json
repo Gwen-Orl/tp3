@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "/media/o22404887/5BBF-3ABB/Université/Semestre_2/Qualité Dev/hamcrest-2.2.jar",
+        "/media/o22404887/5BBF-3ABB/Université/Semestre_2/Qualité Dev/junit-4.13.2.jar",
+        "/home/iut45/Etudiants/o22404887/Téléchargements/gson-2.10.1.jar"
+    ]
+}
